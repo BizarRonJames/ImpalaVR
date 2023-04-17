@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/_Infrastructure/_Resources/Materials/Highlight/Highlight_B_Mat.mat.meta
+guid: f9ca7f20b06a20c4b9d2cd46728d9c9b
+========
+guid: 0b065ba1cdd2a9d4ca44425dedde7e3b
+>>>>>>>> c17677ce2432ac4a1240bb51e0f918087b450e51:Assets/_Infrastructure/_Resources/Prefabs/FBX/Spray Can/Materials/spraydetail_mat.mat.meta
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

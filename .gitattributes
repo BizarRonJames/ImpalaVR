@@ -1,0 +1,6 @@
+Mesh[[:space:]]Bake.fbx filter=lfs diff=lfs merge=lfs -text
+Mine[[:space:]]Environment[[:space:]]2.fbx filter=lfs diff=lfs merge=lfs -text
+OVRLipSync.bundle filter=lfs diff=lfs merge=lfs -text
+Mine[[:space:]]greybox[[:space:]](Unconfirmed).blend filter=lfs diff=lfs merge=lfs -text
+libOVRLipSync.dylib filter=lfs diff=lfs merge=lfs -text
+LightingData.asset filter=lfs diff=lfs merge=lfs -text

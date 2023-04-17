@@ -1,0 +1,54 @@
+name: 'Meta Test'
+
+on: 
+  pull_request:
+    types: 
+      - labled
+      - unlabled
+      - opened
+      - reopened
+    branches:
+      - 'develop'
+      - 'production'
+      - 'QA'
+
+jobs:
+  label-check:
+    name: Checks if labels are used
+    runs-on: ubuntu-latest
+    steps: 
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      # Auto assign the creator of the pull request as the Assignee
+      - uses: actions-ecosystem/action-add-assignees@v1
+        with:
+          assignees: ${{ github.actor }}
+
+      - name: Has atleast one priority label
+        uses: mheap/github-action-required-labels@v1
+        with:
+          mode: minimum
+          count: 1
+          labels: 'priority: high, priority: low, priority: medium'
+
+      - name: Has atleast one type label
+        uses: mheap/github-action-required-labels@v1
+        with:
+          mode: minimum
+          count: 1
+          labels: 'type: bug,type: change,type: chore,type: cosmetic,type: documentation,type: enhance, type: feature, type: fix, type: refactor, type: test'
+
+      - name: Has atleast one status label
+        uses: mheap/github-action-required-labels@v1
+        with:
+          mode: minimum
+          count: 1
+          labels: 'status: needs-info, status: needs-tests, status: not-ready, status: on-hold, status: ready'
+
+      - name: Has atleast one scope label
+        uses: mheap/github-action-required-labels@v1
+        with:
+          mode: minimum
+          count: 1
+          labels: 'scope: model,scope: admin,scope: api,scope: ci-cd,scope: scene,scope: db,scope: design,scope: ui,scope: repository'
