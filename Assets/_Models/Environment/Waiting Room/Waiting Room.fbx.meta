@@ -1,0 +1,192 @@
+fileFormatVersion: 2
+guid: 6c81dbd50fbb8414bb1443863266fad2
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable:
+  - first:
+      74: 6968487792071543943
+    second: HG_Nathan|HG_Nathan|HG_Nathan|HG_Nathan|HG_Nathan|Armature.001|Take 001|B
+  - first:
+      74: -2838478532722110270
+    second: HG_Nathan|HG_Nathan|HG_Nathan|HG_Nathan|HG_Nathan|Armature|Take 001|BaseL
+  - first:
+      74: 8639143751618569473
+    second: HG_Nathan|HG_Nathan|HG_Nathan|HG_Nathan|HG_Nathan|HG_NathanAction|HG_Nath
+  - first:
+      74: -3874331150590485173
+    second: HG_Nathan|HG_Nathan|HG_Nathan|HG_Nathan|HG_Nathan|mixamorig:HeadTop_End.0
+  - first:
+      74: 3335162119721134456
+    second: HG_Nathan|HG_Nathan|HG_Nathan|HG_Nathan|HG_Nathan|mixamorig:HeadTop_End|T
+  - first:
+      74: 6822368415643927776
+    second: HG_Nathan|HG_Nathan|HG_Nathan|HG_Nathan|HG_Nathan|mixamorig:LeftHandI
+  - first:
+      74: -6363804322730264257
+    second: HG_Nathan|HG_Nathan|HG_Nathan|HG_Nathan|HG_Nathan|mixamorig:LeftHandIndex
+  - first:
+      74: 7832506472847233248
+    second: HG_Nathan|HG_Nathan|HG_Nathan|HG_Nathan|HG_Nathan|mixamorig:LeftHandM
+  - first:
+      74: 4903583300017934404
+    second: HG_Nathan|HG_Nathan|HG_Nathan|HG_Nathan|HG_Nathan|mixamorig:LeftHandMiddl
+  - first:
+      74: -5218908385983786698
+    second: HG_Nathan|HG_Nathan|HG_Nathan|HG_Nathan|HG_Nathan|mixamorig:LeftHandP
+  - first:
+      74: 8062847690710580758
+    second: HG_Nathan|HG_Nathan|HG_Nathan|HG_Nathan|HG_Nathan|mixamorig:LeftHandPinky
+  - first:
+      74: 1638373182490575310
+    second: HG_Nathan|HG_Nathan|HG_Nathan|HG_Nathan|HG_Nathan|mixamorig:LeftHandR
+  - first:
+      74: 6324319307879627627
+    second: HG_Nathan|HG_Nathan|HG_Nathan|HG_Nathan|HG_Nathan|mixamorig:LeftHandRing4
+  - first:
+      74: 5878928021773699917
+    second: HG_Nathan|HG_Nathan|HG_Nathan|HG_Nathan|HG_Nathan|mixamorig:LeftHandT
+  - first:
+      74: -1447099658097523694
+    second: HG_Nathan|HG_Nathan|HG_Nathan|HG_Nathan|HG_Nathan|mixamorig:LeftHandThumb
+  - first:
+      74: 3964978751757884392
+    second: HG_Nathan|HG_Nathan|HG_Nathan|HG_Nathan|HG_Nathan|mixamorig:LeftToe_End.0
+  - first:
+      74: -3283658177258271676
+    second: HG_Nathan|HG_Nathan|HG_Nathan|HG_Nathan|HG_Nathan|mixamorig:LeftToe_End|T
+  - first:
+      74: 3614525217246689358
+    second: HG_Nathan|HG_Nathan|HG_Nathan|HG_Nathan|HG_Nathan|mixamorig:RightHand
+  - first:
+      74: 2613665599269179920
+    second: HG_Nathan|HG_Nathan|HG_Nathan|HG_Nathan|HG_Nathan|mixamorig:RightHand.001
+  - first:
+      74: -2475630486932300426
+    second: HG_Nathan|HG_Nathan|HG_Nathan|HG_Nathan|HG_Nathan|mixamorig:RightHand.002
+  - first:
+      74: -3930004824037262749
+    second: HG_Nathan|HG_Nathan|HG_Nathan|HG_Nathan|HG_Nathan|mixamorig:RightHand.003
+  - first:
+      74: 2794673598643776050
+    second: HG_Nathan|HG_Nathan|HG_Nathan|HG_Nathan|HG_Nathan|mixamorig:RightHand.004
+  - first:
+      74: -4111456778707957421
+    second: HG_Nathan|HG_Nathan|HG_Nathan|HG_Nathan|HG_Nathan|mixamorig:RightHandInde
+  - first:
+      74: -1334329309229325919
+    second: HG_Nathan|HG_Nathan|HG_Nathan|HG_Nathan|HG_Nathan|mixamorig:RightHandMidd
+  - first:
+      74: 3864298638858769722
+    second: HG_Nathan|HG_Nathan|HG_Nathan|HG_Nathan|HG_Nathan|mixamorig:RightHandPink
+  - first:
+      74: -7827901912902784502
+    second: HG_Nathan|HG_Nathan|HG_Nathan|HG_Nathan|HG_Nathan|mixamorig:RightHandRing
+  - first:
+      74: 6443846991447667113
+    second: HG_Nathan|HG_Nathan|HG_Nathan|HG_Nathan|HG_Nathan|mixamorig:RightHandThum
+  - first:
+      74: -5480262460997392764
+    second: HG_Nathan|HG_Nathan|HG_Nathan|HG_Nathan|HG_Nathan|mixamorig:RightToe_End.
+  - first:
+      74: 7891755434124431303
+    second: HG_Nathan|HG_Nathan|HG_Nathan|HG_Nathan|HG_Nathan|mixamorig:RightToe_End|
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 0
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
