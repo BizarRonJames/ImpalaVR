@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 140971859ff69584eac97ed759253610, type: 3}
+  m_Name: Blast Barriers (x2)5
+  m_EditorClassIdentifier: 
+  title: Blasting Barricade
+  description: 
+  question: What are some potential consequences of broken blast barricades in a
+    mine?
+  answer: The blast may spread to unintended areas, causing damage to equipment or
+    structures
+  hazardRating: 1
+  questionsInOrder:
+  - 
+  - 
+  - 
+  - 
+  consequence: Time and Production Loss
+  correctIndex: 0

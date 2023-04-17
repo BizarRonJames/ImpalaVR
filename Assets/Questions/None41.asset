@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 140971859ff69584eac97ed759253610, type: 3}
+  m_Name: None41
+  m_EditorClassIdentifier: 
+  title: Persons getting lost
+  description: 
+  question: Name the risk involved if the emergency numbers is not available inside
+    the refuge chamber
+  answer: Persons occupying the rescue chamber may not be able to contact the control
+    room and relevant persons during an emergency.
+  hazardRating: 3
+  questionsInOrder:
+  - 
+  - 
+  - 
+  - 
+  consequence: Cannot notify relevant persons and control room regarding an emergency
+    situation. Rescue teams dispatched late. Injured not dealt with timeously. Persons
+    not rescued on time. Fatalities  Production Loss Financial Implication.
+  correctIndex: 0

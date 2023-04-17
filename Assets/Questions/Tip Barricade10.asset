@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 140971859ff69584eac97ed759253610, type: 3}
+  m_Name: Tip Barricade10
+  m_EditorClassIdentifier: 
+  title: Tip Barricade
+  description: 
+  question: What is the risk involved if the tip barricade is broken or not installed
+    correctly?
+  answer: Inadvertent entry onto the tip area
+  hazardRating: 3
+  questionsInOrder:
+  - 
+  - 
+  - 
+  - 
+  consequence: Persons falling onto the grizzly Serious Injuries
+  correctIndex: 0

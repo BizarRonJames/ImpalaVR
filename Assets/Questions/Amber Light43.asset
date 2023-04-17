@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 140971859ff69584eac97ed759253610, type: 3}
+  m_Name: Amber Light43
+  m_EditorClassIdentifier: 
+  title: Amber light outside refuge bay
+  description: 
+  question: Name the risk involved if the amber light outside the refuge chamber
+    is not installed or not working properly
+  answer: Persons may not be able to identify or locate the rescue bay during an
+    emergency
+  hazardRating: 3
+  questionsInOrder:
+  - 
+  - 
+  - 
+  - 
+  consequence: In poor visibility conditions, persons failing to find the rescue
+    bay.  Persons getting lost Fatalities  Production Loss Financial Implication.
+  correctIndex: 0

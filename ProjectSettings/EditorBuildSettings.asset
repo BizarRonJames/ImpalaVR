@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/Programming/PlayGround.unity
+    guid: 7babc1a1b584efa47877630acfdf239a
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/Programming/Demo1.unity
+    guid: ff5e28395eb62ee438ccf00a8f11a0ab
+  - enabled: 0
+    path: Assets/Scenes/Programming/Demo2.unity
+    guid: 2ed88c082462b4a40ac8212430bff71b
+  - enabled: 0
+    path: Assets/Scenes/Programming/Demo3.unity
+    guid: 898ab7512f1d6524f8ba76cf8f9c9994
+  - enabled: 0
+    path: Assets/Scenes/Programming/Demo4.unity
+    guid: f86fe74ad0c203b4b8e2a277d028f447
+  - enabled: 0
+    path: Assets/Scenes/Programming/Demo5.unity
+    guid: 3d8b4ea3fca829e419b3c26cd666b208
+  - enabled: 0
+    path: Assets/Scenes/Programming/Demo6.unity
+    guid: 13d0bdd78935c8745923fee4b4e5560c
+  - enabled: 1
+    path: Assets/Scenes/Programming/Demo7.unity
+    guid: b1c427adbff384f4f820923e99bdebca
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 1586096d8d710a048baf951b5e344c47, type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: f11abb4338b2535498f5c06dc53a7135, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 3c4f76a95b1daa74980ea9edef37fea4, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b80c3ee9faab76f48829ceb8b0664cc2, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: dc7df3fdac5bca440b335378cb77f460, type: 2}

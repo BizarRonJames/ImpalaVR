@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 140971859ff69584eac97ed759253610, type: 3}
+  m_Name: Rocks obscuring Doorway 149
+  m_EditorClassIdentifier: 
+  title: Obstruction
+  description: 
+  question: What is the recommended course of action if an obstruction cannot be
+    removed outside of the refuge bay in a mine?
+  answer: Call for assistance from the Shift Supervisor
+  hazardRating: 3
+  questionsInOrder:
+  - 
+  - 
+  - 
+  - 
+  consequence: Cannot enter the rescue bay. Serious Injuries Fatalities as persons
+    are inundated with gases and/or smoke as they could not enter the rescue bay.
+  correctIndex: 0

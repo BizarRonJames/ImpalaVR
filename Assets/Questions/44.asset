@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 140971859ff69584eac97ed759253610, type: 3}
+  m_Name: 44
+  m_EditorClassIdentifier: 
+  title: First Aid Drum / equipment
+  description: 
+  question: Why is it important for a refuge bay to have a first aid drum?
+  answer: To provide workers with access to first aid supplies and equipment in the
+    event of an emergency.
+  hazardRating: 3
+  questionsInOrder:
+  - 
+  - 
+  - 
+  - 
+  consequence: Injured not treated on time. Depending on seriousness of injuries,
+    fatalities may result.
+  correctIndex: 0

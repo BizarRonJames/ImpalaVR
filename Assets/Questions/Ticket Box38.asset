@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 140971859ff69584eac97ed759253610, type: 3}
+  m_Name: Ticket Box38
+  m_EditorClassIdentifier: 
+  title: Miners Ticket Box
+  description: 
+  question: What are the consequences if the miners ticket box is not available or
+    cannot be locked
+  answer: Absenteeism, Prevent blasting as per blast schedule and Serious injuries
+    or fatalities.
+  hazardRating: 3
+  questionsInOrder:
+  - 
+  - 
+  - 
+  - 
+  consequence: Absenteeism Crew Members leaving place of work without permission.
+    Failing to perform a proper shift clearance. Prevent blasting as per blast schedule.
+    Unable to do rollcall during an emergency. Crew members left behind during an
+    emergency. Serious injuries or fatalities. Production Loss
+  correctIndex: 0
