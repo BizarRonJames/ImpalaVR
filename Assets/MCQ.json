@@ -1,0 +1,459 @@
+{
+    "question" :
+[
+    {
+        "unityname": "CentreGullyChain",
+        "hazardtitle": "Centre Gully Return Rig Safety Chain",
+        "description": "Missing Safety Chain",
+        "riskrating": "Very Critical",
+        "mcq": "What would happen if no safety chain is not installed at the return rig?",
+        "correctanswer": "No Protection from failng return rig",
+        "consequence": "Serious or fatal injuries to persons in close proximity if return rig fails"
+    },
+    {
+        "unityname": "none",
+        "hazardtitle": "Vent Curtains damaged",
+        "description": "Different sections damaged",
+        "riskrating": "Major",
+        "mcq": "What would happen if damaged vent curtains are not repalaced?",
+        "correctanswer": "Normal work continues, Miner / crew deal with identified hazard / risk.",
+        "consequence": "Workplace will not be properly ventilated resulting in possible: Gas accumulation Gas explosions Suffocation - Gas replaces the oxygen Workplace not cooled down Heat related illnesses"
+    },
+    {
+        "unityname": "Vent Brattice",
+        "hazardtitle": "Vent Brattice",
+        "description": "Damaged / Not installed",
+        "riskrating": "Very Critical",
+        "mcq": "What would happen if the vent brattice is damaged or not installed?",
+        "correctanswer": "Normal work continues, Miner / crew deal with identified hazard / risk.",
+        "consequence": "Workplace will not be properly ventilated resulting in possible: Gas accumulation Gas explosions Suffocation - Gas replaces the oxygen Workplace not cooled down Heat related illnesses"
+    },
+    {
+        "unityname": "Secondary waiting place",
+        "hazardtitle": "Secondary waiting place",
+        "description": "Missing tools",
+        "riskrating": "Major",
+        "mcq": "What would happen if the tools used during entry examiniation is missing or damaged ?",
+        "correctanswer": "Workplace will not be properly made safe",
+        "consequence": "Serious or fatal in juries"
+    },
+    {
+        "unityname": "Netting",
+        "hazardtitle": "Safety Net",
+        "description": "Loose or Damaged",
+        "riskrating": "Very Critical",
+        "mcq": "What is the primary purpose of installing a safety net?",
+        "correctanswer": "Protecting workers against falling rocks",
+        "consequence": "Serious or fatal in juries"
+    },
+    {
+        "unityname": "Blast Barriers (x2)",
+        "hazardtitle": "Blasting Barricade",
+        "description": "Fallen over / Not installed",
+        "riskrating": "Minor",
+        "mcq": "What are some potential consequences of broken blast barricades in a mine?",
+        "correctanswer": "The blast may spread to unintended areas, causing damage to equipment or structures",
+        "consequence": "Time and Production Loss"
+    },
+    {
+        "unityname": "Signal_Hazards1",
+        "hazardtitle": "Signaling device",
+        "description": "Signaling Device unreachable",
+        "riskrating": "Very Critical",
+        "mcq": "How would you deal with signaling wires installed too high (Unreachable)?",
+        "correctanswer": "Install hanging tails",
+        "consequence": "Cannot stop the winch during an emergency resulting in serious or fatal injuries  Cannot give signals to the winch operator causing time and production delays"
+    },
+    {
+        "unityname": "Signal_Hazards2",
+        "hazardtitle": "Signaling device",
+        "description": "Signal wires missing",
+        "riskrating": "Very Critical",
+        "mcq": "What must be done if the signalling wires are missing or broken?",
+        "correctanswer": "Stop winch operation and install signaling wires",
+        "consequence": "Cannot give signals to the winch operator causing time and production delays"
+    },
+    {
+        "unityname": "none",
+        "hazardtitle": "WPD Signaling Devices",
+        "description": "To many signaling devices installed",
+        "riskrating": "Very Critical",
+        "mcq": "What is the maximum amount of WPD safety devices, which can be installed in a scraper path?",
+        "correctanswer": "A maximum of 8 (eight) WPD electrical signalling units may be installed per scraper path.",
+        "consequence": "WPD System Failure Time and production delays"
+    },
+    {
+        "unityname": "none",
+        "hazardtitle": "WPD Signaling Devices",
+        "description": "WPD Signaling Device Installation",
+        "riskrating": "Very Critical",
+        "mcq": "Who is responsible for installing a signalling device in a scraper path?",
+        "correctanswer": "The Winch Operator",
+        "consequence": "Time and production delays"
+    },
+    {
+        "unityname": "none",
+        "hazardtitle": "Tip Barricade",
+        "description": "Broken Tip barricade",
+        "riskrating": "Very Critical",
+        "mcq": "What is the risk involved if the tip barricade is broken or not installed correctly?",
+        "correctanswer": "Inadvertent entry onto the tip area",
+        "consequence": "Persons falling onto the grizzly Serious Injuries"
+    },
+    {
+        "unityname": "none",
+        "hazardtitle": "Safety Belt",
+        "description": "Safety Belt unavailable",
+        "riskrating": "Very Critical",
+        "mcq": "What is the risk involved if the safety belt is missing or not used?",
+        "correctanswer": "Persons falling into the rock pass",
+        "consequence": "Serious or fatal injuries"
+    },
+    {
+        "unityname": "No Entry Sign",
+        "hazardtitle": "No entry sign",
+        "description": "No entry sign displayed on the tip barricade",
+        "riskrating": "Very Critical",
+        "mcq": "What safety signs must be displayed on the tip barricade?",
+        "correctanswer": "No entry",
+        "consequence": "Inadvertent entry onto the tip.  Persons falling down the rock pass  Serious injuries or fatalities"
+    },
+    {
+        "unityname": "Scraper1",
+        "hazardtitle": "Scraper Ropes",
+        "description": "Securing Winch Ropes to the Scrapers",
+        "riskrating": "Very Critical",
+        "mcq": "How are the winch roped secured to the scraper?",
+        "correctanswer": "Winch ropes must be secured to the scraper by means of an appropriate shackle",
+        "consequence": "Premature rope failure Production losses"
+    },
+    {
+        "unityname": "Scraper2",
+        "hazardtitle": "Scraper Ropes",
+        "description": "Securing Winch Ropes to the Scrapers",
+        "riskrating": "Very Critical",
+        "mcq": "How are the winch roped secured to the scraper?",
+        "correctanswer": "Winch ropes must be secured to the scraper by means of an appropriate shackle",
+        "consequence": "Premature rope failure Production losses"
+    },
+    {
+        "unityname": "none",
+        "hazardtitle": "Elevating Snatch Block",
+        "description": "Missing Elevating Snatchblock",
+        "riskrating": "Very Critical",
+        "mcq": "What will happen if an elevating snatchblock is not installed?",
+        "correctanswer": "Ropes will foul",
+        "consequence": "Equipment damage Production delays"
+    },
+    {
+        "unityname": "ScaperRope",
+        "hazardtitle": "Scraper ropes",
+        "description": "Scraping ropes alignment",
+        "riskrating": "Very Critical",
+        "mcq": "What would happen if a winch rope fell against timber support units?",
+        "correctanswer": "Fouling ropes against the timber can ignite timber support that result in underground fires",
+        "consequence": "Damage to equipment Serious Injuries and fatalities Production Loss Serious financial loses"
+    },
+    {
+        "unityname": "none",
+        "hazardtitle": "Missing Roofbolt",
+        "description": "Inactive Support (depending on the area size)",
+        "riskrating": "Very Critical",
+        "mcq": "Name the maximum distance allowed for a roofbolt to protrude?",
+        "correctanswer": "Low risk classification still requires remedial action plans to mitigate a hazard and/or risk.",
+        "consequence": "Fall of ground"
+    },
+    {
+        "unityname": "Protruding roof bolt (x1)",
+        "hazardtitle": "Pretruding roofbolt",
+        "description": "Inactive Support (depending on the area size)",
+        "riskrating": "Very Critical",
+        "mcq": "When you come across missing or inactive support what is the process to follow?",
+        "correctanswer": "Low risk classification still requires remedial action plans to mitigate a hazard and/or risk."
+    },
+    {
+        "unityname": "Winche1",
+        "hazardtitle": "Winches",
+        "description": "Winch Guard Missing",
+        "riskrating": "Very Critical",
+        "mcq": "Name tyhe potential hazard if the winch drum guard is missing or damaged?",
+        "correctanswer": "A Person can get trapped inside the winch moving parts",
+        "consequence": "Serious Injuries/Fatalities"
+    },
+    {
+        "unityname": "Winche2",
+        "hazardtitle": "Winches",
+        "description": "Missing Lockout devise",
+        "riskrating": "Very Critical",
+        "mcq": "What is the risk involved if winches are not locked out when not in use?",
+        "correctanswer": "Unappointed persons can operate the winch",
+        "consequence": "Serious Injuries/Fatalities"
+    },
+    {
+        "unityname": "Winche3",
+        "hazardtitle": "Winches",
+        "description": "Missing Code of Signals",
+        "riskrating": "Very Critical",
+        "mcq": "what would you do if the winch code of signals is missing or not reflecting?",
+        "correctanswer": "Replace winch code of signals",
+        "consequence": "Wrong winch codes given"
+    },
+    {
+        "unityname": "Winche4",
+        "hazardtitle": "Winches",
+        "description": "Winch Signals",
+        "riskrating": "Very Critical",
+        "mcq": "Who is allowed to give signals to the winch operator?",
+        "correctanswer": "Only a Miner or winch operator may give signals to the winch operator",
+        "consequence": "Wrong winch codes given"
+    },
+    {
+        "unityname": "Winche5",
+        "hazardtitle": "Winches",
+        "description": "Start up procedure",
+        "riskrating": "Very Critical",
+        "mcq": "What must the winch operator do if the winch has tripped or scraping activities have stopped?",
+        "correctanswer": "The winch operator must follow lock-out procedure and travel the entire scraper path before restarting the winch",
+        "consequence": "Serious injuries, Fatalities"
+    },
+    {
+        "unityname": "Winche6",
+        "hazardtitle": "Winches",
+        "description": "Broken /Missing Barricades",
+        "riskrating": "Very Critical",
+        "mcq": "what is the risk associated with broken or missing winch barricades?",
+        "correctanswer": "Persons can be trapped by winch moving parts",
+        "consequence": "Serious injuries, Fatalities"
+    },
+    {
+        "unityname": "Winche7",
+        "hazardtitle": "Winches",
+        "description": "Winch barricade",
+        "riskrating": "Very Critical",
+        "mcq": "What materials are used to install a winch barricade?",
+        "correctanswer": "Old scraper ropes and gum planks",
+        "consequence": "Serious injuries, Fatalities"
+    },
+    {
+        "unityname": "Winche8",
+        "hazardtitle": "Winches",
+        "description": "Winch starter box, wrong \" wooden stick\"",
+        "riskrating": "Major",
+        "mcq": "How is the winch starter box installed?",
+        "correctanswer": "Within an arm reach of the winch",
+        "consequence": "If the winch starte box is installed to far from the winch operator during winch operation, the winch operator will not be able to stop the winch in time during an emergency"
+    },
+    {
+        "unityname": "Winche9",
+        "hazardtitle": "Winches",
+        "description": "Winch foundation bolts",
+        "riskrating": "Very Critical",
+        "mcq": "How many winch foundation bolts are used to secure the winch?",
+        "correctanswer": "2 holding down bolts in front, 3 holding down bolts at the back of the winch",
+        "consequence": "Winch movement during scraping activities Equipment damage Time and production loss"
+    },
+    {
+        "unityname": "Mine Walls",
+        "hazardtitle": "Support pillars",
+        "riskrating": "Major",
+        "mcq": "Name a consequesce if mine pillars are robbed and left too small",
+        "correctanswer": "Hanging wall collapse",
+        "consequence": "Loss of ground Equipment damage Serious injuries/Fatalities Production loss"
+    },
+    {
+        "unityname": "Pillars2",
+        "hazardtitle": "Support Sticks",
+        "description": "Cracked or broken",
+        "riskrating": "Major",
+        "mcq": "What does cracked or failing stick support indicate?",
+        "correctanswer": "Collapsing Roof",
+        "consequence": "Loss of ground Equipment damage Serious injuries/Fatalities Production delays"
+    },
+    {
+        "unityname": "Pillars1",
+        "hazardtitle": "Support Sticks",
+        "description": "Not installed Blasted out",
+        "riskrating": "Major",
+        "mcq": "What are some potential consequences of improperly installed stick support in a mine?",
+        "consequence": "Fall of ground accidents Equipment damage Serious injuries/Fatalities Production delays"
+    },
+    {
+        "unityname": "Scrapers4",
+        "hazardtitle": "Scrapers",
+        "description": "Flipped upside down",
+        "riskrating": "Major",
+        "mcq": "What can happen if the scrapers are turned upside down?",
+        "correctanswer": "Unable to perform scraping activities",
+        "consequence": "Production Loss"
+    },
+    {
+        "unityname": "No Entry Sign",
+        "hazardtitle": "No entry Sign",
+        "description": "Missing Signs",
+        "riskrating": "Major",
+        "mcq": "What safety signs must be displayed on the tip barricade?",
+        "correctanswer": "No entry",
+        "consequence": "Inadvertent entry onto the tip.  Persons falling down the rock pass  Serious injuries or fatalities"
+    },
+    {
+        "unityname": "Sockets",
+        "hazardtitle": "Face Preparation",
+        "description": "Sockets",
+        "riskrating": "Very Critical",
+        "mcq": "How far from a socket is the rockdrill operator allowed to drill?",
+        "correctanswer": "15 centimeters",
+        "consequence": "Explosion - Serious injuries/Fatalities"
+    },
+    {
+        "unityname": "Misfires",
+        "hazardtitle": "Face Preparation",
+        "description": "Misfire",
+        "riskrating": "Very Critical",
+        "mcq": "Who may remove a misfire?",
+        "correctanswer": "The Miner",
+        "consequence": "Explosion - Serious injuries/Fatalities"
+    },
+    {
+        "unityname": "Wall and signs1",
+        "hazardtitle": "Waiting place banner",
+        "description": "Outdated duments displayed",
+        "riskrating": "Major",
+        "mcq": "Name the consequences of outdated documents on the waiting place banner",
+        "correctanswer": "Team members are misinformed and DMR stoppage.",
+        "consequence": "Crew Members may follow obsolete working practices. DMR Stoppage Production Loss"
+    },
+    {
+        "unityname": "Wall and signs2",
+        "hazardtitle": "Waiting place banner",
+        "description": "Wrong Plan Scale",
+        "riskrating": "Major",
+        "mcq": "What are the risks involved when a wrong mine plan is displayed",
+        "correctanswer": "Inacurate plotting of workplace layout and production",
+        "consequence": "Inacurate plotting of workplace layout and production"
+    },
+    {
+        "unityname": "Seating",
+        "hazardtitle": "Seating",
+        "description": "Not enough seating arrangements.",
+        "riskrating": "Major",
+        "mcq": "Name the risk associated with a shortage of seating arrangements within the waiting place",
+        "correctanswer": "Crew Members unhappy and Unable to ensure full attendance.",
+        "consequence": "Crew Members Not happy Crew Members not coming to the waiting place. Unable to ensure full attendance. Failing to inspect crew PPE. Members arrive at work injured from home. Failing to inspect crew members for substance abuse. Absenteeism Production Loss"
+    },
+    {
+        "unityname": "Ticket Box",
+        "hazardtitle": "Miners Ticket Box",
+        "description": "No miner's ticket box available",
+        "riskrating": "Very Critical",
+        "mcq": "What are the consequences if the miners ticket box is not available or cannot be locked",
+        "correctanswer": "Absenteeism, Prevent blasting as per blast schedule and Serious injuries or fatalities.",
+        "consequence": "Absenteeism Crew Members leaving place of work without permission. Failing to perform a proper shift clearance. Prevent blasting as per blast schedule. Unable to do rollcall during an emergency. Crew members left behind during an emergency. Serious injuries or fatalities. Production Loss"
+    },
+    {
+        "unityname": "Tool Board",
+        "hazardtitle": "Tool Board",
+        "description": "Missing entry examination tools",
+        "riskrating": "Very Critical",
+        "mcq": "What are the risk involved if certain tools on the tool board are missing or not working properly",
+        "correctanswer": "Cannot expose various rock strata conditions and Cannot deal with lose rocks.",
+        "consequence": "Cannot expose various rock strata conditions. Cannot deal with lose rocks. Unable to make a workplace safe. Various injuries and/or fatalities. Production Loss"
+    },
+    {
+        "unityname": "Refuge chamber sign",
+        "hazardtitle": "Refuge chamber",
+        "description": "Refuge chamber sign",
+        "riskrating": "Very Critical",
+        "mcq": "What will happen if the refuge chamber sign is missing",
+        "correctanswer": "Mis-communicate rescue bay number to the control room and rescue team.",
+        "consequence": "Cannot identify rescue bay. Mis-communicate rescue bay number to the control room and rescue team. Rescue teams may not reach the rescue bay in time to extract persons inside the rescue bay. Time delays during rescue. Various injuries and/or fatalities."
+    },
+    {
+        "unityname": "None",
+        "hazardtitle": "Persons getting lost",
+        "description": "No emergency numbers",
+        "riskrating": "Very Critical",
+        "mcq": "Name the risk involved if the emergency numbers is not available inside the refuge chamber",
+        "correctanswer": "Persons occupying the rescue chamber may not be able to contact the control room and relevant persons during an emergency.",
+        "consequence": "Cannot notify relevant persons and control room regarding an emergency situation. Rescue teams dispatched late. Injured not dealt with timeously. Persons not rescued on time. Fatalities  Production Loss Financial Implication."
+    },
+    {
+        "unityname": "None",
+        "hazardtitle": "Persons getting lost",
+        "description": "No escape plan",
+        "riskrating": "Very Critical",
+        "mcq": "What are the risks involved if an escape plan is not included in the refuge chamber",
+        "consequence": "Persons may get lost Fatalities"
+    },
+    {
+        "unityname": "Amber Light",
+        "hazardtitle": "Amber light outside refuge bay",
+        "description": "Not working",
+        "riskrating": "Very Critical",
+        "mcq": "Name the risk involved if the amber light outside the refuge chamber is not installed or not working properly",
+        "correctanswer": "Persons may not be able to identify or locate the rescue bay during an emergency",
+        "consequence": "In poor visibility conditions, persons failing to find the rescue bay.  Persons getting lost Fatalities  Production Loss Financial Implication."
+    },
+    {
+        "hazardtitle": "First Aid Drum / equipment",
+        "description": "No first aid drum available",
+        "riskrating": "Very Critical",
+        "mcq": "Why is it important for a refuge bay to have a first aid drum?",
+        "correctanswer": "To provide workers with access to first aid supplies and equipment in the event of an emergency.",
+        "consequence": "Injured not treated on time. Depending on seriousness of injuries, fatalities may result."
+    },
+    {
+        "unityname": "AirWhistle",
+        "hazardtitle": "Rescue Bay Air Whistle",
+        "description": "No air whisle installed or not functioning properly",
+        "riskrating": "Very Critical",
+        "mcq": "Why is it important for a refuge bay to have an air whistle?",
+        "correctanswer": "To alert workers to the location of the rescue bay during an emergency",
+        "consequence": "In areas with poor visibility, persons cannot be guided to the rescue bay. Persons getting lost. Serious injuries Fatalities."
+    },
+    {
+        "unityname": "Phone",
+        "hazardtitle": "Rescue Bay telephone",
+        "description": "No teleohone available inside rescue bay",
+        "riskrating": "Very Critical",
+        "mcq": "What is the primary purpose of having a phone in a refuge bay?",
+        "correctanswer": "Unable to report an emergency and communicate such emergency to the control room.",
+        "consequence": "Cannot notify relevant persons and control room regarding an emergency situation. No communication between occupants an rescue teams Rescue teams dispatched late. Injured not dealt with timeously. Persons not rescued on time. Fatalities. Production Loss. Financial Implication."
+    },
+    {
+        "unityname": "DrinkingWater",
+        "hazardtitle": "Drinking Water",
+        "description": "No Drinking Water available inside rescue bay",
+        "riskrating": "Very Critical",
+        "mcq": "What is a potential consequence of a refuge bay not having drinking water?",
+        "correctanswer": "Workers may become dehydrated",
+        "consequence": "Occupants thirsty Conflict/unhappy Heat related illnesses."
+    },
+    {
+        "unityname": "Refuge chamber sign",
+        "hazardtitle": "Rescue bay Sign",
+        "description": "Missing Rescue Bay Number",
+        "riskrating": "Critical",
+        "mcq": "Why is it important for a refuge bay to be numbered?",
+        "correctanswer": "To ensure that persons occupying the refuge chamber report the correct number to hte Control room during an emergency",
+        "consequence": "Failing to report the correct refuge bay number to the control room can cause delays during rescue operations"
+    },
+    {
+        "unityname": "Rocks obscuring Doorway 1",
+        "hazardtitle": "Obstruction",
+        "description": "At doorway",
+        "riskrating": "Very Critical",
+        "mcq": "What is the recommended course of action if an obstruction cannot be removed outside of the refuge bay in a mine?",
+        "correctanswer": "Call for assistance from the Shift Supervisor",
+        "consequence": "Cannot enter the rescue bay. Serious Injuries Fatalities as persons are inundated with gases and/or smoke as they could not enter the rescue bay."
+    },
+    {
+        "unityname": "Rocks obscuring Doorway2",
+        "hazardtitle": "Obstruction",
+        "description": "At doorway",
+        "riskrating": "Very Critical",
+        "mcq": "What is the risk involved if the doorway to the Refuge Chamber is obstructed",
+        "correctanswer": "Prevent access into the refuge chamber.",
+        "consequence": "Serious injuries Fatalities"
+    }
+]
+}
