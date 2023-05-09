@@ -12,7 +12,7 @@ public class TarpMenuController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        InitiliseButtons();
     }
     private void OnEnable() {
         
@@ -24,7 +24,7 @@ public class TarpMenuController : MonoBehaviour
     }
     private void OnTarpMenuOpen(Hazard hazard){
         _currentHazard = hazard;
-        InitiliseButtons();
+        //InitiliseButtons();
     }
     // Update is called once per frame
     void Update()
@@ -36,9 +36,7 @@ public class TarpMenuController : MonoBehaviour
         if(_currentHazard == null){
             return;
         }
-        _buttonHigh.select.RemoveAllListeners();
-        _buttonLow.select.RemoveAllListeners();
-        _buttonMedium.select.RemoveAllListeners();
+        
 
         _buttonLow.select.AddListener(() => _currentHazard.UserTarpRating = 1);
         _buttonMedium.select.AddListener(() => _currentHazard.UserTarpRating = 2);
@@ -47,5 +45,10 @@ public class TarpMenuController : MonoBehaviour
         _buttonLow.select.AddListener(() => HazardMenuEventSystem.instance.QuestionWindowOpen());
         _buttonMedium.select.AddListener(() => HazardMenuEventSystem.instance.QuestionWindowOpen());
         _buttonHigh.select.AddListener(() => HazardMenuEventSystem.instance.QuestionWindowOpen());
+    }
+
+    public void SetHazardTarpRating(int rating){
+        _currentHazard.UserTarpRating = rating;
+
     }
 }

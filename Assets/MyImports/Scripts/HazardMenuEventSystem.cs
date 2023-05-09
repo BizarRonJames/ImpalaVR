@@ -33,7 +33,7 @@ public class HazardMenuEventSystem : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Space))
         {
-            MenuOpen(_testHazard);
+            QuestionWindowOpen();
         }
 
         if(Input.GetKeyDown(KeyCode.N)){
@@ -53,6 +53,8 @@ public class HazardMenuEventSystem : MonoBehaviour
             OnMenuOpen(hazard);
             state = HazardMenuState.MatrixRating;
         }
+
+
     }
 
     public event Action<Hazard> OnTarpMenuOpen;
@@ -139,6 +141,7 @@ public class HazardMenuEventSystem : MonoBehaviour
     public event Action OnQuestionWindowOpen;
     public void QuestionWindowOpen(){
         if(OnQuestionWindowOpen != null){
+            Debug.Log("question window");
             OnQuestionWindowOpen();
         }
     }

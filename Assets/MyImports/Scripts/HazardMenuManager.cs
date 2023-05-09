@@ -51,6 +51,8 @@ public class HazardMenuManager : MonoBehaviour
         HazardMenuEventSystem.instance.OnBrowMenuOpen += OnBrowMenuOpen;
         HazardMenuEventSystem.instance.OnMatrixWindowOpen += OnMatrixWindowOpen;
         HazardMenuEventSystem.instance.OnConsequenceWindowOpen += OnConsequenceWindowOpen;
+        HazardMenuEventSystem.instance.OnQuestionWindowOpen += OnQuestionWindowOpen;
+        HazardMenuEventSystem.instance.OnReportMenuOpen += OnReportMenuOpen;
     }
 
     private void OnDisable()
@@ -59,11 +61,13 @@ public class HazardMenuManager : MonoBehaviour
         HazardMenuEventSystem.instance.OnMenuClose -= OnMenuClose;
         HazardMenuEventSystem.instance.OnMenuOpen -= OnMenuOpen;
         HazardMenuEventSystem.instance.OnReportMenuOpen -= OnReportMenuOpen;
+        HazardMenuEventSystem.instance.OnQuestionWindowOpen -= OnQuestionWindowOpen;
 
         HazardMenuEventSystem.instance.OnBrowMenuOpen -= OnBrowMenuOpen;
         HazardMenuEventSystem.instance.OnMatrixWindowOpen -= OnMatrixWindowOpen;
         HazardMenuEventSystem.instance.OnConsequenceWindowOpen -= OnConsequenceWindowOpen;
         HazardMenuEventSystem.instance.OnTarpMenuOpen -= OnTarpMenuOpen;
+        HazardMenuEventSystem.instance.OnReportMenuOpen -= OnReportMenuOpen;
     }
 
     #endregion

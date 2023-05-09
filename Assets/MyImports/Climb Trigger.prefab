@@ -111,7 +111,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0853e7d6902e71a4781638b998ef85d8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _climbPoint: {fileID: 0}
+  _climbPoint: {fileID: 2567651861352461418}
   _climbCount: 0
 --- !u!1 &7803931164676677588
 GameObject:

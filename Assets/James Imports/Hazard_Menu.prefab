@@ -4637,6 +4637,90 @@ PrefabInstance:
       propertyPath: _consequenceText
       value: 
       objectReference: {fileID: 6107192941171191212}
+    - target: {fileID: 2439199539216329764, guid: e6b13e0443fc033408e050e97fa633c9, type: 3}
+      propertyPath: select.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2439199539216329764, guid: e6b13e0443fc033408e050e97fa633c9, type: 3}
+      propertyPath: select.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2439199539216329764, guid: e6b13e0443fc033408e050e97fa633c9, type: 3}
+      propertyPath: select.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 595456525245927790}
+    - target: {fileID: 2439199539216329764, guid: e6b13e0443fc033408e050e97fa633c9, type: 3}
+      propertyPath: select.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2439199539216329764, guid: e6b13e0443fc033408e050e97fa633c9, type: 3}
+      propertyPath: select.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: QuestionWindowOpen
+      objectReference: {fileID: 0}
+    - target: {fileID: 2439199539216329764, guid: e6b13e0443fc033408e050e97fa633c9, type: 3}
+      propertyPath: select.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: HazardMenuEventSystem, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 2439199539216329764, guid: e6b13e0443fc033408e050e97fa633c9, type: 3}
+      propertyPath: select.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 3502920076176162395, guid: e6b13e0443fc033408e050e97fa633c9, type: 3}
+      propertyPath: select.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3502920076176162395, guid: e6b13e0443fc033408e050e97fa633c9, type: 3}
+      propertyPath: select.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3502920076176162395, guid: e6b13e0443fc033408e050e97fa633c9, type: 3}
+      propertyPath: select.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 595456525245927790}
+    - target: {fileID: 3502920076176162395, guid: e6b13e0443fc033408e050e97fa633c9, type: 3}
+      propertyPath: select.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3502920076176162395, guid: e6b13e0443fc033408e050e97fa633c9, type: 3}
+      propertyPath: select.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: QuestionWindowOpen
+      objectReference: {fileID: 0}
+    - target: {fileID: 3502920076176162395, guid: e6b13e0443fc033408e050e97fa633c9, type: 3}
+      propertyPath: select.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: HazardMenuEventSystem, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3502920076176162395, guid: e6b13e0443fc033408e050e97fa633c9, type: 3}
+      propertyPath: select.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 4013266413536230583, guid: e6b13e0443fc033408e050e97fa633c9, type: 3}
+      propertyPath: select.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4013266413536230583, guid: e6b13e0443fc033408e050e97fa633c9, type: 3}
+      propertyPath: select.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4013266413536230583, guid: e6b13e0443fc033408e050e97fa633c9, type: 3}
+      propertyPath: select.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 595456525245927790}
+    - target: {fileID: 4013266413536230583, guid: e6b13e0443fc033408e050e97fa633c9, type: 3}
+      propertyPath: select.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4013266413536230583, guid: e6b13e0443fc033408e050e97fa633c9, type: 3}
+      propertyPath: select.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: QuestionWindowOpen
+      objectReference: {fileID: 0}
+    - target: {fileID: 4013266413536230583, guid: e6b13e0443fc033408e050e97fa633c9, type: 3}
+      propertyPath: select.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: HazardMenuEventSystem, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 4013266413536230583, guid: e6b13e0443fc033408e050e97fa633c9, type: 3}
+      propertyPath: select.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e6b13e0443fc033408e050e97fa633c9, type: 3}
 --- !u!223 &2566071420223207417 stripped
